@@ -82,7 +82,7 @@ graph TD
 
 <tr>
 <td valign="top">🧑‍💻<br/><b><a href="./Initial_Lab_Work_and_Videos">Initial_Lab_Work_and_Videos</a></b></td>
-<td valign="top">Where the journey began — early hands-on Selenium practice scripts and recorded learning sessions.</td>
+<td valign="top">Contains initial Selenium setup, assignment demo videos, and all module lab reports.</td>
 <td valign="top">🔹 Foundational exercises<br/>🔹 Practice recordings<br/>🔹 Concept-building scripts</td>
 </tr>
 
